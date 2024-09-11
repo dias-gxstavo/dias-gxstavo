@@ -1,15 +1,26 @@
-## I'm Gustavo Dias
 
+  <h3 align="center">
+    I am currently studying  the Java language and its intricacies. From a very young age, I have always had a great                   passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this           wonderful area.
+  </h3>
 
 <p align="center">
+  <img src="/assets/img/3vis.gif" width="700px" height="350px">
+</p>
+
+## ⚙️ Languages and Tools: 
+<div>
+  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,git,aws,docker"/>
+    <img src="https://skillicons.dev/icons?i=java,py,git,aws,docker"/>
   </a>
 </p>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## 🗨️ Connect with me:
+<p align="left">
+  <p> E-mail: gustavodiashug9@gmail.com </p>
+</p>
+
+
+  
+ 
