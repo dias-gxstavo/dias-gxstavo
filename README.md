@@ -1,6 +1,6 @@
-## I'm Gustavo Dias.
+## I'm Gustavo Dias
  
-  <h3 >
+  <h3>
     I am currently studying  the Java language and its intricacies. From a very young age, I have always had a great passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this wonderful area.
   </h3>
   <br>
