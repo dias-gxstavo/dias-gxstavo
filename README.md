@@ -1,10 +1,12 @@
-
-  <h3 align="center">
-    I am currently studying  the Java language and its intricacies. From a very young age, I have always had a great                   passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this           wonderful area.
+## I'm Gustavo Dias.
+ 
+  <h3 align="">
+    I am currently studying  the Java language and its intricacies. From a very young age, I have always had a great passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this wonderful area.
   </h3>
+  <br>
 
-<p align="center">
-  <img src="/assets/img/3vis.gif" width="700px" height="350px">
+<p align="">
+  <img src="/assets/img/1fgC.gif" width="900px" height="350px">
 </p>
 
 ## ⚙️ Languages and Tools: 
