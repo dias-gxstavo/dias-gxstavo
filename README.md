@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Gustavo+Dias.;Second+line+of+text)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Gustavo+Dias.)](https://git.io/typing-svg)
   <h3>
     I am currently studying  the Java language and its intricacies. From a very young age, I have always had a great passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this wonderful area.
   </h3>
