@@ -10,7 +10,7 @@
 <div>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,git,aws,docker"/>
+    <img src="https://skillicons.dev/icons?i=java,golang,git,aws,docker"/>
   </a>
 </p>
 </div>
