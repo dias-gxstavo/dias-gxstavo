@@ -1,25 +1,60 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Gustavo+Dias.)](https://git.io/typing-svg)
-  <h3>
-    I am currently studying the Java ecosystem and its intricacies. From a very young age, I have always had a great passion for technology, I'm passionate about all kinds of technologies and always looking for more information about this wonderful area.
-  </h3>
-  <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04007A&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&color=DCDCDD&size=35&center=true&vCenter=true&width=850&lines=My+name+is+Gustavo+Dias;I+am+a+back-end+developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
+- Backend developer with 1 year of experience working with Java, Spring Boot and Python.
+- Currently pursuing a degree in Systems Analysis and Development at Universidade Augusto Motta.
 
-## ⚙️ Languages and Tools: 
-<div>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,git,aws,docker"/>
-  </a>
-</p>
+### A little more about me...
+
+```javascript
+const Gustavo = {
+    languages: ["Java", "Python"],
+    technologies: {
+        backEnd: {
+            java: ["SpringBoot"],
+            python: ["Django", "NumPy", "Matplotlib"]
+        },
+        devOps: ["Docker🐳", "GitHub"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda", "CloudWatch"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "MySQL"]
+    },
+    architecture: {
+        backEnd: ["Microservices", "Monolithic"],
+    }  
+};
+```
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/dias-gxstavo">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-gxstavo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+   
+## 🚀 Featured Projects
+   
+### [Portfolio](https://www.gustavohuguenin.com.br/)
 
-## 🗨️ Connect with me:
-<p align="left">
-  <p> E-mail: gustavodiashug9@gmail.com </p>
-</p>
+##
+## 🛠️ Technologies and Tools
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  
- 
+##
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavodiashug9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.gustavohuguenin.com.br/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-huguenin-dias/) 
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04007A&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
