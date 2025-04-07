@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04007A&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&color=DCDCDD&size=35&center=true&vCenter=true&width=850&lines=My+name+is+Gustavo+Dias;I+am+a+back-end+developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&color=DCDCDD&size=35&center=falsse&vCenter=false&width=850&lines=My+name+is+Gustavo+Dias;I+am+a+back-end+developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 - Backend developer with 1 year of experience working with Java, Spring Boot and Python.
 - Currently pursuing a degree in Systems Analysis and Development at Universidade Augusto Motta.
 
-### A little more about me...
+### About me...
 
 ```javascript
 const Gustavo = {
@@ -56,5 +54,3 @@ const Gustavo = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-huguenin-dias/) 
 
 ##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04007A&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
