@@ -18,10 +18,7 @@ const Gustavo = {
             aws: ["EC2", "S3", "Lambda", "CloudWatch"],
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL"]
-    },
-    architecture: {
-        backEnd: ["Microservices", "Monolithic"],
-    }  
+    }, 
 };
 ```
 
