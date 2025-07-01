@@ -7,11 +7,10 @@
 
 ```javascript
 const Gustavo = {
-    languages: ["Java", "Python"],
+    languages: ["Java"],
     technologies: {
         backEnd: {
             java: ["SpringBoot"],
-            python: ["Django", "NumPy", "Matplotlib"]
         },
         devOps: ["Docker🐳", "GitHub"],
         cloudServices: {
@@ -38,7 +37,6 @@ const Gustavo = {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
