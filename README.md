@@ -28,10 +28,6 @@ const Gustavo = {
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-gxstavo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
    
-## 🚀 Featured Projects
-   
-### [Portfolio](https://www.gustavohuguenin.com.br/)
-
 ##
 ## 🛠️ Technologies and Tools
 
@@ -45,7 +41,6 @@ const Gustavo = {
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavodiashug9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.gustavohuguenin.com.br/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-huguenin-dias/) 
 
 ##
