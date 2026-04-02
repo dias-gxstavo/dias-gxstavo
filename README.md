@@ -1,9 +1,10 @@
 ```javascript
 let Gustavo Huguenin = {
-    languages: ["Java", "Python"],
+    languages: ["PHP", "Python"],
     technologies: {
         backEnd: {
-            Java: ["Spring Boot"]
+            Python: ["FastAPI", "Flask"],
+            PHP: ["Symfony"]
         },
         devOps: ["Docker"],
         cloudServices: {
